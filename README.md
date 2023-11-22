@@ -14,95 +14,95 @@ Add your timetable
 Execute the program
 
 # CODE
+```
 <html>
-    <title> TIME TABLE </title>
-    <body>
-        <center>
-            <table border="6" bgcolor="cyan" cellspacing="10" cellpadding="10">
-                <caption> SLOT TIME TABLE SANTHIYA R(23005263)</caption>
-                <tr bgcolor="yellow">
-                    <th> Day/Time </th>
-                    <th> Monday </th>
-                    <th> Tuesday </th>
-                    <th> Wednesday </th>
-                    <th> Thursday </th>
-                    <th> Friday </th> 
-               </tr>
-               <tr align="center">
-                  <th bgcolor="yellow"> 8-10 </th>
-                  <td colspan="3"> FREE SLOT</td>
-                  <td> PHYSICS </td>
-                  <td> CHEMISTRY </td>
-               </tr>
-               <tr align="center">
-                   <th bgcolor="yellow"> 10-12 </th>
-                   <td> GER </td>
-                   <td> FREE SLOT </td>
-                   <td> FWAD </td>
-                   <td> FWAD </td>
-                   <td> PHY </td>
-               </tr>
-               <tr align ="center">
-                   <th bgcolor="yellow"> 12-1 </th>
-                   <td colspan="5" align="center"> LUNCH </td>
-               </tr>
-               <tr align ="center">
-                   <th bgcolor="yellow"> 1-3 </th>
-                   <td colspan="2"> FREE SLOT </td>
-                   <td> MAT </td>
-                   <td> MAT </td>
-                   <td> SS </td>
-               </tr>
-               <tr align ="center">
-                   <th bgcolor="yellow"> 3-5 </th>
-                   <td colspan="2"> FREE SLOT </td>
-                   <td> GER </td>
-                   <td> CHE </td>
-                   <td> FWAD </td>
-               </tr>
-               </tr>
-               </table>
-               <br>
-               <table border="7" cellspacing="10" cellpadding="10">
-               <tr align="center">
-               <th> S.NO. </th>
-               <th> Subject Code</th>
-               <th> Subject Name </th>
-               </tr>
-               <tr align="center">
-               <td> 1. </td>
-               <td> 19AI414 </td>
-               <td> Fundamentals of Web Applicaton Development(FWAD) </td>
-               </tr>
-               <tr align="center">
-               <td> 2. </td>
-               <td> 19EN612 </td>
-               <td> German Basic (GER) </td>
-               </tr>
-               <tr align="center">
-               <td> 3. </td>
-               <td> 19PH206 </td>
-               <td> Physics for Information Technology (PHY) </td>
-               </tr>
-               <tr align="center">
-               <td> 4. </td>
-               <td> 19CY205 </td>
-               <td> Principles of Chemistry in Engineering (CHE) </td>
-               </tr>
-               <tr align="center">
-               <td> 5. </td>
-               <td> 19MA201 </td>
-               <td> Calculus and Matrix Algebra (MAT) </td>
-               </tr>
-               <tr align="center">
-               <td> 6. </td>
-               <td> 19EY701 </td>
-               <td> Soft Skills (SS) </td>
-               </tr>
-            </table>
-        </center>
-    </body>
+     <title>Time Table</title>
+     <body>
+     <center>
+           <table border="5" bgcolor="cyan" cell spacing="10" cellpadding="15">
+          
+           <caption>Slot Time Table-SANTHIYA R(2300523)</caption>
+           
+<tr>
+    <TR bgcolor="Yellow">
+    <th>Day/Time</th>
+    <th>Monday</th>
+    <th>Tuesday</th>
+    <th>Wednesday</th>
+    <th>Thursday</th>
+    <th>Friday</th>
+    </TR>
+</tr>
+<tr>
+   <th bgcolor="yellow">8-10</th>
+   <td>Python</td>
+   <td>Digital Electronics</td>
+   <td>Digital Electronics</td>
+   <td>Engineerig Design</td>
+   <td>Engineerig Design</td>
+</tr>
+<tr>
+   <th bgcolor="yellow">10-12</th>
+   <td></td>
+   <td>Fundamentals of Web</td>
+   <td></td>
+   <td>Probability</td>
+   <td></td>
+</tr>
+<tr>
+    <th bgcolor="yellow">1-3</th>
+   <td>Fundamentals of Web</td>
+   <td>Python</td>
+   <td>Python</td>
+   <td></td>
+   <td>Python</td>
+</tr>
+<tr>
+   <th bgcolor="yellow">3-5</th>
+   <td></td>
+   <td></td>
+   <td>Fundamentals of Web</td>
+   <td></td>
+   <td>Probability</td>
+</tr>
+</table>
+<br>
+<table>
+ <table border="5" cell spacing="10" cellpadding="15">
+<tr>
+   <th>S.NO</th>
+   <th>Subject code</th>
+   <th>Subject Name</th>
+</tr>
+<tr>
+   <th>1</th>
+   <td>19AI415</td>
+   <td>Fundamentals of Web</td>
+</tr>
+<tr>
+   <th>2</th>
+   <td>19AI301C</td>
+   <td>PYTHON AND LINEAR ALGEBRA</td>
+</tr>
+<tr>
+   <th>3</th>
+   <td>19EE404</td>
+   <td>DIGITAL ELECTRONICS</td>
+</tr>
+<tr>
+   <th>4</th>
+   <td>19AI302</td>
+   <td>ENGINEERING DESIGN AND MODELLING</td>
+</tr>
+<tr>
+   <th>5</th>
+   <td>19MA222</td>
+   <td>PROBABILITY AND QUEUEING</td>
+</tr>
+</table>
+</body>
+</center>
 </html>
-
+```
 # OUPUT
-[TimeTableOutput](./timetable.png)
+![output](./timetable.jpeg)
