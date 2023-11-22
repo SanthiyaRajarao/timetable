@@ -106,3 +106,5 @@ Execute the program
 ```
 # OUPUT
 ![output](./timetable.jpeg)
+# RESULT:
+Thus the program executed successfully
